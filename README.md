@@ -19,7 +19,6 @@
 
 - **Real-Time Data:** Stay updated with live cryptocurrency prices and market trends.
 - **Interactive Charts:** Visualize historical price trends with responsive, user-friendly charts.
-- **Modern UI:** Redesigned with Tailwind CSS for a sleek and modern appearance.
 - **API Integration:** Fetches data seamlessly using [RapidAPI](https://rapidapi.com).
 - **State Management:** Built with Redux Toolkit for efficient and scalable state handling.
 - **Responsive Design:** Optimized for desktop and mobile devices.
@@ -30,7 +29,6 @@
 ## Technologies Used
 
 - **Frontend Framework:** React.js
-- **UI Styling:** Tailwind CSS
 - **State Management:** Redux Toolkit
 - **HTTP Requests:** Axios
 - **Charting Library:** Chart.js (via React-Chartjs-2)
